@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "+uhcN7JsEKqP1WxkRMDj7jMeUU2RFsCCGMPAZ9Kox98=",
-  "Source": "src",
-  "BasePath": "_content/src",
+  "Hash": "BxCvB5WXGrUPPldguglOj2YHsdysi9+g6/M1Q48PwHM=",
+  "Source": "AuctionService",
+  "BasePath": "_content/AuctionService",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
