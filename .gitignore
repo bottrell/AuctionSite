@@ -2,4 +2,4 @@
 .vscode
 .DS_Store
 *.dll
-Carsties/src/AuctionService/obj/*
+*/obj/*
