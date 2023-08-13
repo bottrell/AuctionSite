@@ -4,3 +4,4 @@
 *.dll
 */obj/*
 Carsties/src/AuctionService/obj/
+Carsties/src/AuctionService/bin/
